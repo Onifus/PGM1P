@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+canvas {
+  border: 1px solid #000;
+  margin-bottom: 20px;
+}
+
+#wordDisplay {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+#letterInput {
+  font-size: 18px;
+  padding: 5px;
+}
+
+button {
+  padding: 6px 12px;
+  font-size: 16px;
+  margin: 5px;
+}
+
+#message {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
